@@ -39,10 +39,10 @@ void  greet_visitor()
 - #### 
 
 ## Currently Learning 📖
-> [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-> [![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-> [![angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-> [![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
 ## My notes 📚
@@ -59,3 +59,5 @@ void  greet_visitor()
    [Makefile notes ->](#)
    
 ## Contact 📞
+
+![hack](https://giphy.com/gifs/hackers-hacking-FnGJfc18tDDHy);
