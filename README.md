@@ -24,8 +24,6 @@ void  greet_visitor()
 
 - #### Tools
 
-  > ![Texto alternativo](ruta-de-la-imagen.png)
-  
   > [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   > [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   > [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
