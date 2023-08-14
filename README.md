@@ -14,15 +14,9 @@ void  greet_visitor()
 
 ## Current Technical Skills 🛠️
 
-<ul>
-    <li>
-        <h3> Languages </h3>
-            [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-            [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-            [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-            [![My Skills](https://skillicons.dev/icons?i=smalltalk)](https://skillicons.dev)
-        <p>Descripción del primer elemento.</p>
-    </li>
-</ul>
-
-
+- ### Languages
+  [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=smalltalk)](https://skillicons.dev)
+ 
