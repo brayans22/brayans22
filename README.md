@@ -1,10 +1,11 @@
 <p align="center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/8f62ef5c-d73f-4d37-8267-a8544f72b86e"       
-       alt = "Overview brayans22">
+       alt = "Overview brayans22" width="800" height="250">
 </p>
 
 
-![Uploading ezgif.com-optimize(1).gif…]()
+
+
 
 ```c
 #include <unistd.h>
