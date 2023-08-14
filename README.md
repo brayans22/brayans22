@@ -1,4 +1,4 @@
-# HI! VISITOR 🙋‍♂️
+# HI! 👋
 
 ```c
 void  greet_visitor()
