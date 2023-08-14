@@ -1,9 +1,9 @@
-# WELCOME 🙋‍♂️
+# HI! VISITOR 🙋‍♂️
 
 ```c
 void  greet_visitor()
 {
-    write(1, "Hi! visitor, welcome to my git profile (:\n", 42);
+    write(1, "Welcome to my git profile (:\n", 29);
 }
 ```
 
