@@ -9,12 +9,13 @@ void  greet_visitor()
 
 - #### Programming Languages
   
-  > [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  > [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  > [![Skill](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  > [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-  > [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  > [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  > - [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  > - [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  > - [![Skill](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  > - [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  > - [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  > - [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  > - [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
   > - ##### smalltalk
 
 - #### IDEs
@@ -22,7 +23,6 @@ void  greet_visitor()
   > [![vim](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
   > [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   > [![intellij](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-  > [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 - #### Tools
 
