@@ -1,3 +1,5 @@
+# WELCOME 🙋‍♂️
+
 ```c
 void  greet_visitor()
 {
