@@ -11,22 +11,19 @@ void  greet_visitor()
 
 - #### Programming Languages
   
-  > [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  > [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  > [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  > [![Skill](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  > [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  > [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  > [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 - #### IDEs
   
-  > [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=vscode](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=intellij)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  > [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+  > [![IDEs](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+  > [![IDEs](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  > [![IDEs](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+  > [![IDEs](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 - #### Tools
   
@@ -37,3 +34,4 @@ void  greet_visitor()
   > [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   > [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
   > [![My Skills](https://skillicons.dev/icons?i=slack)](https://skillicons.dev)
+  > > [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
