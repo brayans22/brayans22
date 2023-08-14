@@ -26,12 +26,14 @@ void  greet_visitor()
   > [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
 - #### Tools
+
+  > ![Texto alternativo](ruta-de-la-imagen.png)
   
   > [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   > [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   > [![gdb](https://skillicons.dev/icons?i=gdb)](https://skillicons.dev)
   > [![valgrind](https://skillicons.dev/icons?i=valgrind)](https://skillicons.dev)
   > [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-  > ![notion](https://iconos8.es/icon/FUwceJUAs8kb/notion)
+  > ![notion](https://www.svgrepo.com/svg/342071/notion)
   > ![slack](https://skillicons.dev/icons?i=slack)
   > [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
