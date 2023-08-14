@@ -1,6 +1,6 @@
 <p align="center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/8f62ef5c-d73f-4d37-8267-a8544f72b86e"       
-       alt = "Overview brayans22" width=100% height="250">
+       alt = "Overview brayans22" width=100% height="100">
 </p>
 
 ```c
