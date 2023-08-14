@@ -14,7 +14,7 @@ void  greet_visitor()
   > [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
   > [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   > [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  > smalltalk
+  > - ##### smalltalk
 
 - #### IDEs
   
@@ -29,8 +29,8 @@ void  greet_visitor()
   
   > [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   > [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  > gdb
-  > valgrind
-  > Notion
+  > - #### gdb
+  > - #### valgrind
+  > - #### Notion
   > [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   > [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
