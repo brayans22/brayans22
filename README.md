@@ -5,6 +5,8 @@ void  greet_visitor()
 }
 ```
 
+## About me 🙋‍♂️
+
 ## Current Skills 🛠️
 
 - #### Programming Languages
@@ -34,6 +36,8 @@ void  greet_visitor()
   > - ##### gdb
   > - ##### notion
 
+- #### 
+
 ## Currently Learning 📖
 > [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 > [![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
@@ -42,5 +46,16 @@ void  greet_visitor()
 
 
 ## My notes 📚
+    [C notes ->](#)
+    [C++ notes ->](#)
+    [Java notes ->](#)
+    [Bash notes ->](#)
+    [Makefile notes ->](#)
 
-## My projects 🗃️
+## Projects 📁
+   [Makefile notes ->](#)
+   [Makefile notes ->](#)
+   [Makefile notes ->](#)
+   [Makefile notes ->](#)
+   
+## Contact 📞
