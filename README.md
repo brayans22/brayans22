@@ -7,7 +7,7 @@ void  greet_visitor()
 }
 ```
 
-## About me 🙋‍♂️
+## About me ❔
 
 ## Current Skills 🛠️
 
