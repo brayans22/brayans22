@@ -15,24 +15,14 @@ void  greet_visitor()
 ## Current Technical Skills 🛠️
 
 <ul>
-  <li>
-    <h3> Languages </h3>
-    <img src = "(https://skillicons.dev/icons?i=c)](https://skillicons.dev)" alt = "C">
-    <p>Descripción del primer elemento.</p>
-  </li>
-  <li>
-    <h3>Título 2</h3>
-    <img src="ruta-de-la-imagen-2.jpg" alt="Imagen 2">
-    <p>Descripción del segundo elemento.</p>
-  </li>
+    <li>
+        <h3> Languages </h3>
+            [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+            [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+            [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+            [![My Skills](https://skillicons.dev/icons?i=smalltalk)](https://skillicons.dev)
+        <p>Descripción del primer elemento.</p>
+    </li>
 </ul>
 
-- Languages
-      [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-      [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-      [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-      [![My Skills](https://skillicons.dev/icons?i=smalltalk)](https://skillicons.dev)
-      
-- Second item
-- Third item
-- Fourth item 
+
