@@ -1,8 +1,7 @@
 <p align="center">
-  <img src = "https://github.com/brayans22/brayans22/assets/90729742/bcafd641-5062-4fc0-a8d4-1a189a9dfbc8"       
+  <img src = "https://github.com/brayans22/brayans22/assets/90729742/35777c05-dd8d-42ee-9421-eae131f3cd22"       
        alt = "Overview brayans22">
 </p>
-
 
 ```c
 #include <unistd.h>
