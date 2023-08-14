@@ -32,6 +32,6 @@ void  greet_visitor()
   > [![gdb](https://skillicons.dev/icons?i=gdb)](https://skillicons.dev)
   > [![valgrind](https://skillicons.dev/icons?i=valgrind)](https://skillicons.dev)
   > [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-  > ![notion](https://iconos8.es/icon/FUwceJUAs8kb/notion)]
-  > ![slack][(https://skillicons.dev/icons?i=slack)](https://iconos8.es/icon/FrrWYTyu3vLa/slack-nuevo)]
+  > ![notion](https://iconos8.es/icon/FUwceJUAs8kb/notion)
+  > ![slack](https://skillicons.dev/icons?i=slack)
   > [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
