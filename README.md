@@ -5,17 +5,17 @@ void  greet_visitor()
 }
 ```
 
-## Current Technical Skills 🛠️
+## Current Skills 🛠️
 
 - #### Programming Languages
   
-  > - [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  > - [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  > - [![Skill](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  > - [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-  > - [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  > - [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  > - [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+  >   [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  >   [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  >   [![Skill](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  >   [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  >   [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  >   [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  >   [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
   > - ##### smalltalk
 
 - #### IDEs
@@ -33,12 +33,14 @@ void  greet_visitor()
   > - ##### valgrind
   > - ##### gdb
   > - ##### notion
-  <!---
-    valgrind
-  -->
-  <!---
-    gdb
-  -->
-  <!---
-    notion
-  --> 
+
+## Currently Learning 📖
+> [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+> [![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+> [![angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+> [![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+
+## My notes 📚
+
+## My projects 🗃️
