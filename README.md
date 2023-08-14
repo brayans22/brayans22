@@ -9,12 +9,17 @@ void  greet_visitor()
 
 ## Current Technical Skills 🛠️
 
-- ### Languages
+- ### Programming Languages
   
-    - #### C
-      [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  Java :
-  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
- 
+ > :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+
+> :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
+
+> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
