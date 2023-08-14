@@ -1,4 +1,10 @@
-![Presentation_picture](https://github.com/brayans22/brayans22/assets/90729742/c183fc6f-e448-463b-accc-a92c2b9c3c42)
+
+![Presentation picture](https://github.com/brayans22/brayans22/assets/90729742/1011ae29-6861-4665-b94e-fb729bfc6df5)
+
+<p align="center">
+  <img src = "https://github.com/brayans22/brayans22/assets/90729742/1011ae29-6861-4665-b94e-fb729bfc6df5"       
+       alt = "Presentation picture">
+</p>
 
 ```c
 #include <unistd.h>
