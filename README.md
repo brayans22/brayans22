@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://github.com/brayans22/brayans22/assets/90729742/e9069e09-f2b4-44d5-955a-494fd9548197"       
+  <img src = "https://github.com/brayans22/brayans22/assets/90729742/b3227c96-338a-4a32-999f-d9275f6e1251"       
        alt = "Overview brayans22">
 </p>
 
