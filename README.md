@@ -9,7 +9,7 @@ void  greet_visitor()
 
 ## Current Technical Skills 🛠️
 
-- ### Programming Languages
+- #### Programming Languages
   
   > [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
   > [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
@@ -18,8 +18,22 @@ void  greet_visitor()
   > [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   > [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
- > :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+- #### IDEs
+  
+  > [![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=vscode](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=intellij)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 
-> :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
-
-> :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
+- #### Tools
+  
+  > [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=gdb)](https://skillicons.dev)
+  > > [![My Skills](https://skillicons.dev/icons?i=valgrind)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+  > [![My Skills](https://skillicons.dev/icons?i=slack)](https://skillicons.dev)
