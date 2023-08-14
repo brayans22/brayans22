@@ -1,9 +1,6 @@
-
-![Presentation picture](https://github.com/brayans22/brayans22/assets/90729742/1011ae29-6861-4665-b94e-fb729bfc6df5)
-
 <p align="center">
-  <img src = "https://github.com/brayans22/brayans22/assets/90729742/1011ae29-6861-4665-b94e-fb729bfc6df5"       
-       alt = "Presentation picture">
+  <img src = "https://github.com/brayans22/brayans22/assets/90729742/72e348b0-ab9c-4d2f-a4a0-655a72c4bf0d"       
+       alt = "Overview brayans22">
 </p>
 
 ```c
