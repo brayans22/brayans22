@@ -1,3 +1,4 @@
+
 # HI! 👋
 
 ```c
@@ -87,26 +88,33 @@ void  greet_visitor()
 
 ## Projects 📁
 
-<br>
-    `42 Barcelona - Piscine July 2023 🏊‍♂️`
+    <br>
     
-    |                    [ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
+    `42 Barcelona - Piscine July 2023 🏊‍♂️`
+    |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
     |:--|
-<br>
+    
+    <br>
+
+    <br>
     
     `42 Barcelona - C Reloaded 🔃 `
     |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)|
     |:--|
+    
+    <br>
 
-    ` 42 Barcelona - Cursus 🚧 `
+    <br>
+    
+    `42 Barcelona - Cursus 🚧 `
     |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)|
     |:--|
+    
+    <br>
 
     ` C - Game 🕹 `
     |[ 👉 CLICK HERE 👈 ](#)|
     |:--|
-
-</p>
    
 ## Contact 📞
 
