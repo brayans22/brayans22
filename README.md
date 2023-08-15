@@ -1,6 +1,11 @@
 
 # HI! 👋
 
+<p align = "center">
+  <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe"       
+       alt = "Bye" width = "900px">
+</p>
+
 ```c
 void  greet_visitor()
 {
@@ -56,34 +61,34 @@ void  greet_visitor()
 
 
 ## My notes 📚
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++ ](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
+|[C++ ](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA, POO, DIAGRAMS UML, PATTERN DESIGN, S.O.L.I.D ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+|[JAVA, POO, DIAGRAMS UML, PATTERN DESIGN, S.O.L.I.D ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMALLTALK && PHARO ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+|[SMALLTALK && PHARO ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+|[ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
+|[C ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
+|[BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML ](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)|
+|[HTML ](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CCS ](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)|
+|[CCS ](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAKE ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
+|[MAKE ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
 |:--|
 
-|[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M ](https://www.w3schools.io/file/markdown-css/)|
+|[M ](https://www.w3schools.io/file/markdown-css/)|
 |:--|
 
 ## Projects 📁
@@ -98,8 +103,5 @@ void  greet_visitor()
     
    
 ## Contact 📞
+    empty, fix soon!!
 
-<p align = "center">
-  <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe"       
-       alt = "Bye" width = "900px">
-</p>
