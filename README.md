@@ -120,7 +120,7 @@ void  greet_visitor()
 > In this section, you will discover a comprehensive collection of notes encompassing various facets of the programming realm.
 
 <details>
-  <summary><h3> C Notes & Makefile </h3></summary>
+  <summary><h3> C & Makefile </h3></summary>
   
   <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://brayan-saiago.notion.site/C-c6f8597f6dd84ae092335ef640020626?pvs=4">
@@ -137,7 +137,7 @@ void  greet_visitor()
 </details>
 
 <details>
-  <summary><h3>C++ Notes </h3></summary>
+  <summary><h3> C++ </h3></summary>
   
   <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4">
@@ -147,7 +147,7 @@ void  greet_visitor()
 </details>
 
 <details>
-  <summary><h3>Java Notes </h3></summary>
+  <summary><h3> Java </h3></summary>
   
   <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4">
@@ -157,7 +157,7 @@ void  greet_visitor()
 </details>
 
 <details>
-  <summary><h3> POO notes </h3></summary>
+  <summary><h3> POO </h3></summary>
   
   <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://brayan-saiago.notion.site/CONCEPTOS-COMUNES-ENTRE-JAVA-SMALLTALK-82f8ab45914145f8a57523c5ef7a6800?pvs=4">
@@ -167,7 +167,7 @@ void  greet_visitor()
 </details>
 
 <details>
-  <summary><h3> UML notes </h3></summary>
+  <summary><h3> UML </h3></summary>
   
   <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://brayan-saiago.notion.site/UML-DIAGRAMA-DE-CLASES-a5540786d0294bffb9f5bc3352ac22e9?pvs=4">
