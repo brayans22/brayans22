@@ -38,8 +38,6 @@ void  greet_visitor()
   > - ##### gdb
   > - ##### notion
 
-- #### 
-
 ## Currently Learning 📖
 [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
@@ -49,47 +47,56 @@ void  greet_visitor()
 
 ## My notes 📚
 <br>
-|[ C++ notes ](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
+
+|[ C++ ](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[ Java, POO, Diagram, Pattern Design, Principios S.O.L.I.D ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+
+|[ JAVA, POO, DIAGRAMS UML, PATTERN DESIGN, S.O.L.I.D ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[ Smalltalk && Pharo ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+
+|[ SMALLTALK && PHARO ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[ Angular ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+
+|[ ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 <br>
 
 <br>
+
 |[ C ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[ Bash notes ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
+
+|[ BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[ Html notes ](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)|
+
+|[ HTML ](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[ Ccs notes ](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)|
+
+|[ CCS ](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)|
 |:--|
 <br>
 
 <br>
-|[Makefile notes ->](#))|
+ 
+|[ MAKEFILE ](#))|
 |:--|
 <br>
     
