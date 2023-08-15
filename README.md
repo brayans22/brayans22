@@ -1,5 +1,5 @@
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! 👋
+# &nbsp; Hello! 👋
 
 <p align = "center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe"       
@@ -94,14 +94,16 @@ void  greet_visitor()
 ## Projects 📁
 
 
-### &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🏊‍♂️ &nbsp; &nbsp; &nbsp; 42 Barcelona - Piscine &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔃 &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚧 &nbsp; &nbsp; &nbsp; 42 Barcelona - Cursus  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎮 &nbsp; &nbsp; &nbsp; Game Osos Contra el Reloj &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/Osos-contra-el-reloj)
+###  🏊‍♂️ &nbsp; &nbsp; &nbsp; 42 Barcelona - Piscine &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)
+###  🔃 &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)
+###  🚧 &nbsp; &nbsp; &nbsp; 42 Barcelona - Cursus  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)
+###  🎮 &nbsp; &nbsp; &nbsp; Game Osos Contra el Reloj &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/Osos-contra-el-reloj)
 
 
     
    
 ## Contact 📞
-    empty, fix soon!!
+
+    Personal mail:     brayansaiago@gmail.com
+    42 Barcelona mail: bsaiago-@42barcelona.com
 
