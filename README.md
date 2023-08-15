@@ -120,9 +120,7 @@ void  greet_visitor()
 ## Contact 📞
 
 <p align = "center">
-    
-    |[ M ](https://www.w3schools.io/file/markdown-css/)|
-    |:--|
+    [ M ](https://www.w3schools.io/file/markdown-css/)
 </p>
 
 <p align = "center">
