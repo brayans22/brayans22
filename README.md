@@ -48,8 +48,6 @@ void  greet_visitor()
 
 
 ## My notes 📚
-    [C notes ->](#)
-    
     [C++ notes ->](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)
     [Java, POO, Diagram, Pattern Design, Principios S.O.L.I.D ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
     [Smalltalk && Pharo ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
