@@ -27,7 +27,7 @@ void  greet_visitor()
 
 ## Current Skills 🛠️
 
-- ### Programming Languages
+### Programming Languages
   
   [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
   [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
@@ -36,15 +36,15 @@ void  greet_visitor()
   [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-  - ##### smalltalk
+  - #### smalltalk
 
-- ### IDEs
+### IDEs
   
   [![vim](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
   [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   [![intellij](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
-- ### Tools
+### Tools
 
   [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
@@ -59,6 +59,61 @@ void  greet_visitor()
 [![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+## Projects 📁
+> In this section, you will find all the Git projects I have collaborated on.
+<details>
+  <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
+  
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus">
+               Cursus 🚧  
+       </a>
+  </h3>
+
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
+              C Reloaded 🔃
+       </a>
+  </h3>
+  
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
+              Piscine 🏊‍♂️
+       </a>
+  </h3>
+  
+</details>
+
+<details>
+  <summary> <h3> Games 🎮 </h3> </summary>
+  <h3>
+       📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/brayans22/Osos-contra-el-reloj">
+              Osos contra el reloj 🐻‍❄️ 🐻 🕒
+       </a>
+  </h3>
+</details>
+
+## Git Stadistics 📊
+
+<p align="center">
+       <a href="https://github.com/brayans22">
+              <img src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
+       </a>
+</p>
+
+<p align="center">
+       <a href="https://github.com/brayans22">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
+       </a>
+</p>
+
+<p align="center">
+       <a href="https://github.com/brayans22">
+              <img align="center"src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
+       </a>
+</p>
 
 
 ## My notes 📚
@@ -192,61 +247,6 @@ void  greet_visitor()
        </a>
   </h3>
 </details>
-
-## Projects 📁
-> In this section, you will discover a comprehensive collection of my notes encompassing various facets of the programming realm.
-<details>
-  <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
-  
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus">
-               Cursus 🚧  
-       </a>
-  </h3>
-
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
-              C Reloaded 🔃
-       </a>
-  </h3>
-  
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
-              Piscine 🏊‍♂️
-       </a>
-  </h3>
-  
-</details>
-
-<details>
-  <summary> <h3> Games 🎮 </h3> </summary>
-  <h3>
-       📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/Osos-contra-el-reloj">
-              Osos contra el reloj 🐻‍❄️ 🐻 🕒
-       </a>
-  </h3>
-</details>
-
-## Git Stadistics 📊
-
-<p align="center">
-       <a href="https://github.com/brayans22">
-              <img src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
-       </a>
-</p>
-
-<p align="center">
-       <a href="https://github.com/brayans22">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
-       </a>
-</p>
-
-<p align="center">
-       <a href="https://github.com/brayans22">
-              <img align="center"src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
-       </a>
-</p>
 
 ## Contact 📞
 
