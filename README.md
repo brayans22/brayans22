@@ -115,8 +115,11 @@ void  greet_visitor()
     ` C - Game 🕹 `
     |[ 👉 CLICK HERE 👈 ](#)|
     |:--|
+    <br>
    
 ## Contact 📞
+
+<center> <h2> hola </h2> </center>
 
 <p align = "center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe"       
