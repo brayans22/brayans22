@@ -1,9 +1,8 @@
-
 # &nbsp; Hello! Visitor 👋
 
 <p align="center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe" 
-       alt = "gif hack the planet" width = "600" height = "300">
+       alt = "gif hack the planet" width = "700">
 </p>
 
 ```c
@@ -37,7 +36,7 @@ void  greet_visitor()
   [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-  ##### smalltalk
+  - ##### smalltalk
 
 - ### IDEs
   
@@ -51,11 +50,11 @@ void  greet_visitor()
   [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
-  #### valgrind
-  #### gdb
-  #### notion
+  - #### valgrind
+  - #### gdb
+  - #### notion
 
-## Currently Learning 📖
+## Currently Learning 👨‍💻
 [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
@@ -63,19 +62,81 @@ void  greet_visitor()
 
 
 ## My notes 📚
-|[C++ ](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
-|:--|
+> In this section, you will discover a comprehensive collection of my notes encompassing various facets of the programming realm.
+<details>
+  <summary><h3>C Notes </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/C-c6f8597f6dd84ae092335ef640020626?pvs=4">
+               Sintaxis  
+       </a>
+  </h3>
+</details>
 
-|[JAVA, POO, DIAGRAMS UML, PATTERN DESIGN, S.O.L.I.D ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
-|:--|
+<details>
+  <summary><h3>C++ Notes </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4">
+               Summary  
+       </a>
+  </h3>
+</details>
 
-|[SMALLTALK && PHARO ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
-|:--|
+<details>
+  <summary><h3>Java Notes </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4">
+               Summary  
+       </a>
+  </h3>
+</details>
+
+<details>
+  <summary><h3> POO notes </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/CONCEPTOS-COMUNES-ENTRE-JAVA-SMALLTALK-82f8ab45914145f8a57523c5ef7a6800?pvs=4">
+               Summary  
+       </a>
+  </h3>
+</details>
+
+<details>
+  <summary><h3> UML notes </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/UML-DIAGRAMA-DE-CLASES-a5540786d0294bffb9f5bc3352ac22e9?pvs=4">
+               Class Diagram 
+       </a>
+  </h3>
+
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/UML-DIAGRAMA-DE-SECUENCIA-c4cca3d6bfba49889745ff59e0d12ed6?pvs=4">
+               Sequence Diagram 
+       </a>
+  </h3>
+</details>
+
+<details>
+  <summary><h3> Smalltalk & Pharo </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/SMALLTALK-c874b4ad36fc4a2f84cb1b83ff8f7660?pvs=4">
+               Summary Smalltalk
+       </a>
+  </h3>
+
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/PHARO-1a0a6c2adf5345e8b1a359f5c2b7bbb0?pvs=4">
+               Summary Pharo
+       </a>
+  </h3>
+</details>
+
 
 |[ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
-|:--|
-
-|[C ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
 |:--|
 
 |[BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
@@ -94,50 +155,38 @@ void  greet_visitor()
 |:--|
 
 ## Projects 📁
-
+> In this section, you will discover a comprehensive collection of my notes encompassing various facets of the programming realm.
 <details>
-  <summary> 42 Barcelona Projects </summary>
+  <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
   
-  <h3 align="center">
-       Cursus 🚧  
-  </h3>
-  <h4 align="center">
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus">
-              👉 CLICK HERE 👈
+               Cursus 🚧  
        </a>
-  </h4>
+  </h3>
 
-  <h3 align="center">
-       C Reloaded 🔃
-  </h3>
-  <h4 align="center">
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
-              👉 CLICK HERE 👈
+              C Reloaded 🔃
        </a>
-  </h4>
-  
-  <h3 align="center">
-       Piscine 🏊‍♂️
   </h3>
-  <h4 align="center">
+  
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
-              👉 CLICK HERE 👈
+              Piscine 🏊‍♂️
        </a>
-  </h4>
+  </h3>
   
 </details>
 
 <details>
-  <summary> <h4> Games 🎮 </h4> </summary>
-  <h4 align="center">
-        Osos contra el reloj 🐻‍❄️ 🐻 🕒
-  </h4>
-
-  <h5 align="center">
+  <summary> <h3> Games 🎮 </h3> </summary>
+  <h3>
+       📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://github.com/brayans22/Osos-contra-el-reloj">
-              👉 CLICK HERE 👈
+              Osos contra el reloj 🐻‍❄️ 🐻 🕒
        </a>
-  </h5>
+  </h3>
 </details>
 
 ## Git Stadistics 📊
