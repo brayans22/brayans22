@@ -112,8 +112,6 @@ void  greet_visitor()
 |[ 👉 CLICK HERE 👈 ](#)|
 |:--|
 <br>
-
-</p>
    
 ## Contact 📞
 
