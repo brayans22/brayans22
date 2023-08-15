@@ -89,10 +89,10 @@ void  greet_visitor()
 ## Projects 📁
 
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🏊‍♂️ &nbsp; &nbsp; &nbsp; 42 Barcelona - Piscine &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [👉 CLICK HERE 👈 ]()
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔃 &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; [👉 CLICK HERE 👈 ]()
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚧 &nbsp; &nbsp; &nbsp; 42 Barcelona - Cursus  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎮 &nbsp; &nbsp; &nbsp; C - Game &nbsp; &nbsp; &nbsp; 🕹 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🏊‍♂️ &nbsp; &nbsp; &nbsp; 42 Barcelona - Piscine &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔃 &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; [ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚧 &nbsp; &nbsp; &nbsp; 42 Barcelona - Cursus  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎮 &nbsp; &nbsp; &nbsp; Game in C - Osos Contra el Reloj  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/Osos-contra-el-reloj)
 
 
     
