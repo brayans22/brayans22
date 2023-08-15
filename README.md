@@ -89,36 +89,26 @@ void  greet_visitor()
 
 
 
-<div align="center">
+<p align="center">
     
     
     `42 Barcelona - Piscine July 2023 🏊‍♂️`
     |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
     |:--|
     
-        
-    <br>
-    
     `42 Barcelona - C Reloaded 🔃 `
     |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)|
     |:--|
-    <br>
-        
-    <br>
-    
+
     ` 42 Barcelona - Cursus 🚧 `
     |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)|
     |:--|
-    <br>
-        
-    <br>
-    
+
     ` C - Game 🕹 `
     |[ 👉 CLICK HERE 👈 ](#)|
     |:--|
-    <br>
 
-</div>
+</p>
    
 ## Contact 📞
 
