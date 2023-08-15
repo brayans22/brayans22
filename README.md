@@ -58,7 +58,7 @@ void  greet_visitor()
 |[ ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
 
-|[ C ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
+|[ C ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
 |:--|
 
 |[ BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
@@ -71,7 +71,7 @@ void  greet_visitor()
 |:--|
 
  
-|[ MAKEFILE ](#))|
+|[ MAKEFILE ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4))|
 |:--|
 
 ## Projects 📁
