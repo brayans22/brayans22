@@ -62,15 +62,23 @@ void  greet_visitor()
 
 
 ## My notes 📚
-> In this section, you will discover a comprehensive collection of my notes encompassing various facets of the programming realm.
+> In this section, you will discover a comprehensive collection of notes encompassing various facets of the programming realm.
+
 <details>
-  <summary><h3>C Notes </h3></summary>
+  <summary><h3> C Notes & Makefile </h3></summary>
   
   <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://brayan-saiago.notion.site/C-c6f8597f6dd84ae092335ef640020626?pvs=4">
-               Sintaxis  
+               Summary C 
        </a>
   </h3>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4">
+               Summary Makefile
+       </a>
+  </h3>
+  
 </details>
 
 <details>
@@ -135,24 +143,55 @@ void  greet_visitor()
   </h3>
 </details>
 
+<details>
+  <summary><h3> Angular </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/ANGULAR-ccccf140f8614acca8cc7350c516c8db?pvs=4">
+               Summary
+       </a>
+  </h3>
+</details>
 
-|[ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
-|:--|
+<details>
+  <summary><h3> Bash </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4">
+               Summary
+       </a>
+  </h3>
+</details>
 
-|[BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
-|:--|
+<details>
+  <summary><h3> CCS </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4">
+               Summary
+       </a>
+  </h3>
+</details>
 
-|[HTML ](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)|
-|:--|
+<details>
+  <summary><h3> Html </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4">
+               Summary
+       </a>
+  </h3>
+</details>
 
-|[CCS ](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)|
-|:--|
-
-|[MAKE ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
-|:--|
-
-|[MARKDOWN ](https://www.w3schools.io/file/markdown-css/)|
-|:--|
+<details>
+  <summary><h3> Markdown </h3></summary>
+  
+  <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://www.w3schools.io/file/markdown-css/">
+               Summary
+       </a>
+  </h3>
+</details>
 
 ## Projects 📁
 > In this section, you will discover a comprehensive collection of my notes encompassing various facets of the programming realm.
