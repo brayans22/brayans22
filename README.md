@@ -89,14 +89,9 @@ void  greet_visitor()
 ## Projects 📁
 
 
-- ### 42 Barcelona - Cursus 🚧 &nbsp; &nbsp; [👉 CLICK HERE 👈 ]()
-- ### 42 Barcelona - Cursus 🚧 :     [👉 CLICK HERE 👈 ]()
-- ### 42 Barcelona - Cursus 🚧 :     [👉 CLICK HERE 👈 ]()
-- ### 42 Barcelona - Cursus 🚧 :     [👉 CLICK HERE 👈 ]()
-- ### 42 Barcelona - Cursus 🚧 :     [👉 CLICK HERE 👈 ]()
-- ### 42 Barcelona - Cursus 🚧 :     [👉 CLICK HERE 👈 ]()
-- ### 42 Barcelona - Cursus 🚧 :     [👉 CLICK HERE 👈 ]()
-
+### &nbsp; &nbsp; 42 Barcelona - Cursus 🚧 &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
+### &nbsp; &nbsp; 42 Barcelona - Cursus 🚧 &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
+### &nbsp; &nbsp; 42 Barcelona - Cursus 🚧 &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
 
 
     
