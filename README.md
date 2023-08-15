@@ -102,8 +102,6 @@ void  greet_visitor()
     ` C - Game 🕹 `
     |[ 👉 CLICK HERE 👈 ](#)|
     |:--|
-
-</p>
    
 ## Contact 📞
 
