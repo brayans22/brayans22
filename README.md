@@ -120,7 +120,7 @@ void  greet_visitor()
 ## Contact 📞
 
 <p align = "center">
-  <h2> Hola </h2>
+  <h1> NOSSA </h1>
 </p>
 
 <p align = "center">
