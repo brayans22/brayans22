@@ -1,9 +1,11 @@
 
 # &nbsp; Hello! 👋
 
-<img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe"       
-       alt = "Bye" width = "900px">
-       
+<p align="center">
+  <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe" 
+       alt = "Bye" width = "600" height = "300">
+</p>
+
 ```c
 #include <unistd.h>
 
@@ -93,20 +95,67 @@ void  greet_visitor()
 
 ## Projects 📁
 
+<h3 align="center">
+       42 Barcelona - Piscine 🏊‍♂️
+</h3>
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🏊‍♂️ 42 Barcelona - Piscine &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<h4 align="center">
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
+              👉 CLICK HERE 👈
+       </a>
+</h4>
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
+<h3 align="center">
+       42 Barcelona - C Reloaded 🔃
+</h3>
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔃 42 Barcelona - C Reloaded  
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)
+<h4 align="center">
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
+              👉 CLICK HERE 👈
+       </a>
+</h4>
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🚧 42 Barcelona - Cursus  
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)
+<h3 align="center">
+       42 Barcelona - Cursus 🚧  
+</h3>
 
-###  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎮 Game Osos Contra el Reloj 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/Osos-contra-el-reloj)
-   
+<h4 align="center">
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus">
+              👉 CLICK HERE 👈
+       </a>
+</h4>
+
+<h3 align="center">
+        Game Osos Contra el Reloj  🎮
+</h3>
+
+<h4 align="center">
+       <a href="https://github.com/brayans22/Osos-contra-el-reloj">
+              👉 CLICK HERE 👈
+       </a>
+</h4>
+
+## Git Stadistics 📊
+
+<p align="center">
+       <a href="https://github.com/brayans22">
+              <img src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
+       </a>
+</p>
+
+<p align="center">
+       <a href="https://github.com/brayans22">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
+       </a>
+</p>
+
+<p align="center">
+       <a href="https://github.com/brayans22">
+              <img align="center"src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
+       </a>
+</p>
+
 ## Contact 📞
-> Personal Mail: <brayansaiago@gmail.com>
-> 42 Barcelona Mail: <bsaiago-@42barcelona.com>
+
+- Personal Mail: <brayansaiago@gmail.com>
+- 42 Barcelona Mail: <bsaiago-@42barcelona.com>
