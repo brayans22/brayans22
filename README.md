@@ -6,6 +6,18 @@ void  greet_visitor()
     write(1, "Welcome to my git profile (:\n", 29);
 }
 ```
+
+## About me 
+I am a Portuguese student enrolled in the 42 Barcelona Cursus. Concurrently, 
+I am undergoing the transfer procedures to continue my previous studies in 
+Computer Science from the University of Buenos Aires (UBA) at the University 
+of Barcelona (UB). My academic journey reflects a pronounced acumen for critical 
+analysis, comprehensive reading, articulate writing, and accelerated learning.
+
+A steadfast advocate of collaborative efforts, I exemplify commitment by investing 
+an unwavering 110% to overcome every challenge I undertake."
+
+
 ## Current Skills 🛠️
 
 - #### Programming Languages
