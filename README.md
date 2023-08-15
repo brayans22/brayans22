@@ -86,6 +86,11 @@ void  greet_visitor()
 |:--|
 
 ## Projects 📁
+<b>
+`42 Barcelona - Piscine July 2023 🏊‍♂️
+|[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
+|:--|
+<b>
    
 ## Contact 📞
 
