@@ -36,7 +36,7 @@ void  greet_visitor()
   [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-  - ### smalltalk
+  - #### smalltalk
 
 ### IDEs
   
