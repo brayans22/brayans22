@@ -46,60 +46,34 @@ void  greet_visitor()
 
 
 ## My notes 📚
-<br>
-
 |[ C++ ](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ JAVA, POO, DIAGRAMS UML, PATTERN DESIGN, S.O.L.I.D ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ SMALLTALK && PHARO ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ ANGULAR ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ C ](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ BASH ](https://brayan-saiago.notion.site/Bash-c5b9ba211e344b1586366f3fe2cc84b9?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ HTML ](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)|
 |:--|
-<br>
-
-<br>
 
 |[ CCS ](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)|
 |:--|
-<br>
 
-<br>
  
 |[ MAKEFILE ](#))|
 |:--|
-<br>
-    
+
 ## Projects 📁
    [Makefile notes ->](#)
    [Makefile notes ->](#)
