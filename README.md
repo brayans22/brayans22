@@ -48,8 +48,18 @@ void  greet_visitor()
 
 
 ## My notes 📚
-    [C++ notes ->](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)
-    [Java, POO, Diagram, Pattern Design, Principios S.O.L.I.D ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
+<br>
+
+    
+
+`C++ notes`
+|[C++ notes ->](https://brayan-saiago.notion.site/RESUMEN-C-e3422d48ac5b480f87a29c29f11a6c33?pvs=4)|
+|:--|
+
+
+<br>
+
+[Java, POO, Diagram, Pattern Design, Principios S.O.L.I.D ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
     [Smalltalk && Pharo ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
     [POO, Diagramnotes ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
     [Java notes ->](https://brayan-saiago.notion.site/RESUMEN-JAVA-5b500e5fb22c4b37bf2cdee216500cf8?pvs=4)
@@ -58,6 +68,7 @@ void  greet_visitor()
     [Html notes->](https://brayan-saiago.notion.site/HTML5-9f7de2d6f9c34a9a8289487dd6cd1ea1?pvs=4)
     [Ccs notes->](https://brayan-saiago.notion.site/CSS-11ecc071f300442ea54c6eff25951f65?pvs=4)
     [Makefile notes ->](#)
+    
 
 ## Projects 📁
    [Makefile notes ->](#)
