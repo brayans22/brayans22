@@ -75,10 +75,7 @@ void  greet_visitor()
 |:--|
 
 ## Projects 📁
-   [Makefile notes ->](#)
-   [Makefile notes ->](#)
-   [Makefile notes ->](#)
-   [Makefile notes ->](#)
+   
    
 ## Contact 📞
 
