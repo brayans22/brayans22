@@ -120,8 +120,8 @@ void  greet_visitor()
 ## Contact 📞
 
 <p align = "center">
-    ` C - Game 🕹 `
-    |[ 👉 CLICK HERE 👈 ](#)|
+    
+    |[ M ](https://www.w3schools.io/file/markdown-css/)|
     |:--|
 </p>
 
