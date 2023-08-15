@@ -89,10 +89,10 @@ void  greet_visitor()
 ## Projects 📁
 
 
-### &nbsp; &nbsp; &nbsp; &nbsp; 42 Barcelona - Piscine &nbsp; 🏊‍♂️ &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
-### &nbsp; &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
+### &nbsp; &nbsp; &nbsp; &nbsp; 42 Barcelona - Piscine &nbsp; 🏊‍♂️ &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
+### &nbsp; &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp; 🔃 &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
 ### &nbsp; &nbsp; &nbsp; &nbsp; 42 Barcelona - Cursus 🚧 &nbsp; &nbsp; &nbsp; &nbsp;[👉 CLICK HERE 👈 ]()
-### &nbsp; &nbsp; &nbsp; &nbsp; C - Game &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [👉 CLICK HERE 👈 ]()
+### &nbsp; &nbsp; &nbsp; &nbsp; C - Game &nbsp; &nbsp; &nbsp; 🕹 &nbsp; &nbsp; &nbsp; [👉 CLICK HERE 👈 ]()
 
 
     
