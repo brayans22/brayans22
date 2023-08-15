@@ -7,7 +7,7 @@ void  greet_visitor()
 }
 ```
 
-## About me 
+## About me 🕵️‍♂️
 I am a Portuguese student enrolled in the 42 Barcelona Cursus. Concurrently, 
 I am undergoing the transfer procedures to continue my previous studies in 
 Computer Science from the University of Buenos Aires (UBA) at the University 
