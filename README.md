@@ -1,9 +1,9 @@
 
-# &nbsp; Hello! 👋
+# &nbsp; Hello! Visitor 👋
 
 <p align="center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe" 
-       alt = "Bye" width = "600" height = "300">
+       alt = "gif hack the planet" width = "600" height = "300">
 </p>
 
 ```c
@@ -11,7 +11,7 @@
 
 void  greet_visitor()
 {
-    write(1, "Welcome to my git profile (:\n", 29);
+    write(1, "My name is Brayan, welcome to my git profile (:\n", 48);
 }
 ```
 
@@ -95,45 +95,50 @@ void  greet_visitor()
 
 ## Projects 📁
 
-<h3 align="center">
-       42 Barcelona - Piscine 🏊‍♂️
-</h3>
-
-<h4 align="center">
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
-              👉 CLICK HERE 👈
-       </a>
-</h4>
-
-<h3 align="center">
-       42 Barcelona - C Reloaded 🔃
-</h3>
-
-<h4 align="center">
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
-              👉 CLICK HERE 👈
-       </a>
-</h4>
-
-<h3 align="center">
-       42 Barcelona - Cursus 🚧  
-</h3>
-
-<h4 align="center">
+<details>
+  <summary> 42 Barcelona Projects </summary>
+  
+  <h3 align="center">
+       Cursus 🚧  
+  </h3>
+  <h4 align="center">
        <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus">
               👉 CLICK HERE 👈
        </a>
-</h4>
+  </h4>
 
-<h3 align="center">
-        Game Osos Contra el Reloj  🎮
-</h3>
+  <h3 align="center">
+       C Reloaded 🔃
+  </h3>
+  <h4 align="center">
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
+              👉 CLICK HERE 👈
+       </a>
+  </h4>
+  
+  <h3 align="center">
+       Piscine 🏊‍♂️
+  </h3>
+  <h4 align="center">
+       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
+              👉 CLICK HERE 👈
+       </a>
+  </h4>
+  
+</details>
 
-<h4 align="center">
+<details>
+  <summary> <h4> Games 🎮 </h4> </summary>
+  <h4 align="center">
+        Osos contra el reloj 🐻‍❄️ 🐻 🕒
+  </h4>
+
+  <h5 align="center">
        <a href="https://github.com/brayans22/Osos-contra-el-reloj">
               👉 CLICK HERE 👈
        </a>
-</h4>
+  </h5>
+</details>
 
 ## Git Stadistics 📊
 
