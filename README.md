@@ -88,6 +88,19 @@ void  greet_visitor()
 
 ## Projects 📁
 
+
+|42 Barcelona - Cursus 🚧 |  [👉 CLICK HERE 👈 ](https://github.com/pasqualerossi/42-Tools) |
+
+|42 Barcelona - Cursus 🚧 |  [👉 CLICK HERE 👈 ](https://github.com/pasqualerossi/42-Tools) |
+
+|42 Barcelona - Cursus 🚧 |  [👉 CLICK HERE 👈 ](https://github.com/pasqualerossi/42-Tools) |
+
+|42 Barcelona - Cursus 🚧 |  [👉 CLICK HERE 👈 ](https://github.com/pasqualerossi/42-Tools) |
+
+|42 Barcelona - Cursus 🚧 |  [👉 CLICK HERE 👈 ](https://github.com/pasqualerossi/42-Tools) |
+
+|42 Barcelona - Cursus 🚧 |  [👉 CLICK HERE 👈 ](https://github.com/pasqualerossi/42-Tools) |
+
     <br>
     
     `42 Barcelona - Piscine July 2023 🏊‍♂️`
