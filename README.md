@@ -88,7 +88,7 @@ void  greet_visitor()
 |[MAKE ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
 |:--|
 
-|[M ](https://www.w3schools.io/file/markdown-css/)|
+|[MARKDOWN ](https://www.w3schools.io/file/markdown-css/)|
 |:--|
 
 ## Projects 📁
@@ -98,9 +98,6 @@ void  greet_visitor()
 ###  🔃 &nbsp; &nbsp; &nbsp; 42 Barcelona - C Reloaded &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)
 ###  🚧 &nbsp; &nbsp; &nbsp; 42 Barcelona - Cursus  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)
 ###  🎮 &nbsp; &nbsp; &nbsp; Game Osos Contra el Reloj &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[ 👉&nbsp;&nbsp;CLICK HERE&nbsp;&nbsp;👈 ](https://github.com/brayans22/Osos-contra-el-reloj)
-
-
-    
    
 ## Contact 📞
 
