@@ -87,37 +87,35 @@ void  greet_visitor()
 
 ## Projects 📁
 
-<b>
-` 42 Barcelona - Piscine July 2023 🏊‍♂️ `
+<p align="center">
+    <b>
+    `42 Barcelona - Piscine July 2023 🏊‍♂️ `
+    |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
+    |:--|
+    <b>
     
-|[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
-|:--|
-<b>
-
-<b>
-` 42 Barcelona - C Reloaded 🔃 `
+    <b>
+    ` 42 Barcelona - C Reloaded 🔃 `
+    |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)|
+    |:--|
+    <b>
     
-|[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded)|
-|:--|
-<b>
-
-<b>
-` 42 Barcelona - Cursus 🚧 `
+    <b>
+    ` 42 Barcelona - Cursus 🚧 `
+    |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)|
+    |:--|
+    <b>
     
-|[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus)|
-|:--|
-<b>
-
-<b>
-` C - Game 🕹 `
-    
-|[ 👉 CLICK HERE 👈 ](#)|
-|:--|
-<b>
+    <b>
+    ` C - Game 🕹 `
+    |[ 👉 CLICK HERE 👈 ](#)|
+    |:--|
+    <b>
+</p>
    
 ## Contact 📞
 
-<p align="center">
+<p align = "center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe"       
        alt = "Bye" width = "900px">
 </p>
