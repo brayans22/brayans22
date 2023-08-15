@@ -89,7 +89,7 @@ void  greet_visitor()
 
 
 
-<br>
+<br style="text-align: center; >
 
 `42 Barcelona - Piscine July 2023 🏊‍♂️`
 |[ 👉 CLICK HERE 👈 ](https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine)|
