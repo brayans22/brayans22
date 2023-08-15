@@ -6,9 +6,6 @@ void  greet_visitor()
     write(1, "Welcome to my git profile (:\n", 29);
 }
 ```
-
-## About me ❓
-
 ## Current Skills 🛠️
 
 - #### Programming Languages
@@ -73,11 +70,10 @@ void  greet_visitor()
 |[ MAKE ](https://brayan-saiago.notion.site/MAKEFILE-831ef4e3ad084f56a2945251233679a7?pvs=4)|
 |:--|
 
-|[ MAKE ](https://www.w3schools.io/file/markdown-css/)|
+|[ M ](https://www.w3schools.io/file/markdown-css/)|
 |:--|
 
 ## Projects 📁
-   
    
 ## Contact 📞
 
