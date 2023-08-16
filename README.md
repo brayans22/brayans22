@@ -89,7 +89,7 @@ void  greet_visitor()
 
 <br>
   
-  > Learning 🌱:&nbsp;&nbsp;Javascript | Typescript | Angular | Docker
+  > Learning 🌱:&nbsp;&nbsp; Angular | Javascript | Typescript | Docker
   <br>
 
 ## Projects 🗄️
