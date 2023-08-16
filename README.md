@@ -34,30 +34,45 @@ void  greet_visitor()
   [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   [![Css icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  - #### smalltalk
+  [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  
+  <br>
+  
+  > Languages: C | C++ | Java | HTML | CSS | Python | Smalltalk
+  <br>
 
 ### IDEs
   
   [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
   [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
   [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
   [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
-  [![Geany icon](https://skillicons.dev/icons?i=geany)](https://skillicons.dev)
+ 
+  <br>
+  
+  > IDEs: Vim | Visual Studio | IntelliJ | Visual Studio Code | Intellij | Atom | Clion | Geany
+  <br>
+
 ### Tools
 
   [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   [![GitHub Icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  [![stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   [![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
   [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
   [![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-  - #### Valgrind
-  - #### Gdb
-  - #### Notion
-  - #### Canvas
-  - #### Capcut
-  - #### Microsoft Office
+  [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   
+
+  <br>
+  > Version Control System: Git | Github | Gitlab
+  > Others: Bash | Markdown | Stack overflow
+  > Debugging: Gdb
+  > Detect Memory Leaks: Valgrind
+  > Team Tools: Notion | Slack
+  > Design: Canvas | Capcut | Picsart | Inshot
+  > Digital Suites: Microsoft Office 
+  <br>
 
 ## Currently Learning 👨‍💻
 [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
