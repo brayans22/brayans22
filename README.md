@@ -29,27 +29,27 @@ void  greet_visitor()
 
 ### Programming Languages
   
-  [![Skill](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  [![Skill](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  [![Skill](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  [![Skill](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-  [![Skill](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![Skill](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  [![markdown](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+  [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+  [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+  [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![Css icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   - #### smalltalk
 
 ### IDEs
   
-  [![vim](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
-  [![vscode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  [![intellij](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+  [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+  [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 
 ### Tools
 
-  [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  [![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-  [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+  [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![GitHub Icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+  [![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+  [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  [![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
   - #### valgrind
   - #### gdb
   - #### notion
