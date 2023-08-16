@@ -42,7 +42,7 @@ void  greet_visitor()
   [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
   [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
-
+  [![Geany icon](https://skillicons.dev/icons?i=geany)](https://skillicons.dev)
 ### Tools
 
   [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
