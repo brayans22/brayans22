@@ -41,6 +41,7 @@ void  greet_visitor()
   [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
   [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
   [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+  [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 
 ### Tools
 
@@ -50,9 +51,13 @@ void  greet_visitor()
   [![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
   [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
   [![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-  - #### valgrind
-  - #### gdb
-  - #### notion
+  - #### Valgrind
+  - #### Gdb
+  - #### Notion
+  - #### Canvas
+  - #### Capcut
+  - #### Microsoft Office
+  
 
 ## Currently Learning 👨‍💻
 [![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
