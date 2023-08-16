@@ -25,9 +25,9 @@ void  greet_visitor()
 > an unwavering 110% to overcome every challenge I undertake."
 
 
-## Current Skills 🛠️
+## Current Skills 👨‍💻
 
-### Programming Languages
+### Programming Languages ⌨️ 🌐
   
   [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
   [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
@@ -38,23 +38,10 @@ void  greet_visitor()
   
   <br>
   
-  > Languages: C | C++ | Java | HTML | CSS | Python | Smalltalk
+  > Languages:&nbsp;&nbsp;C | C++ | Java | HTML | CSS | Python | Smalltalk
   <br>
 
-### IDEs
-  
-  [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
-  [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-  [![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-  [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-  [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
- 
-  <br>
-  
-  > IDEs: Vim | Visual Studio | IntelliJ | Visual Studio Code | Intellij | Atom | Clion | Geany
-  <br>
-
-### Tools
+### Tools 🛠️
 
   [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   [![GitHub Icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
@@ -64,23 +51,48 @@ void  greet_visitor()
   [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   
 
+<br>
+
+> Version Control System 💻:&nbsp;&nbsp;Git | Github | Gitlab
+
+> Others 🔢: &nbsp;&nbsp;Bash | Markdown | Stack overflow
+
+> Debugging 🐛:&nbsp;&nbsp;Gdb
+
+> Detect Memory Leaks 🧠:&nbsp;&nbsp;Valgrind
+
+> Team Tools 🗣️:&nbsp;&nbsp;Notion | Slack
+
+> Design 👨‍🎨 🖌️:&nbsp;&nbsp;Canvas | Capcut | Picsart | Inshot
+
+> Digital Suites 📦:&nbsp;&nbsp;Microsoft Office - Microsoft Word - Google Drive
+<br>
+
+### IDEs ⚛️
+  
+  [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+  [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+  [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+  [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
+ 
   <br>
-  > Version Control System: Git | Github | Gitlab
-  > Others: Bash | Markdown | Stack overflow
-  > Debugging: Gdb
-  > Detect Memory Leaks: Valgrind
-  > Team Tools: Notion | Slack
-  > Design: Canvas | Capcut | Picsart | Inshot
-  > Digital Suites: Microsoft Office 
+  
+  > IDEs ⚛:&nbsp;&nbsp;Vim | Visual Studio Code | Visual Studio | IntelliJ | Atom | Clion | Geany
   <br>
 
-## Currently Learning 👨‍💻
-[![js](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![ts](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+## Currently Learning ✍🏻 📔 
+[![Javascript](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Typescript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
-## Projects 📁
+<br>
+  
+  > Learning 🌱:&nbsp;&nbsp;Javascript | Typescript | Angular | Docker
+  <br>
+
+## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
 <details>
   <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
