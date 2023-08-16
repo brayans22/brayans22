@@ -65,7 +65,7 @@ void  greet_visitor()
 
 > Design 👨‍🎨 🖌️:&nbsp;&nbsp;Canvas | Capcut | Picsart | Inshot
 
-> Digital Suites 📦:&nbsp;&nbsp;Microsoft Office - Microsoft Word - Google Drive
+> Digital Suites 📦:&nbsp;&nbsp;Microsoft Office | Microsoft Word | Google Drive
 <br>
 
 ### IDEs ⚛️
