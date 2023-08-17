@@ -157,17 +157,25 @@ void  greet_visitor()
 
 ## Git Stadistics 📊
 
-<a href="https://github.com/brayans22">
-    <img  src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/brayans22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
-</a>
-
-<div align = "center">
+<div align="center">
     <a href="https://github.com/brayans22">
-      <img src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
+      <img src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true"/>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/brayans22">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact"/>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/brayans22">
+        <img src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square"/>
     </a>
 </div>
 
