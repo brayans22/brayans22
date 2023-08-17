@@ -90,7 +90,7 @@ void  greet_visitor()
 <br>
   
   > Learning 🌱:&nbsp;&nbsp; Angular | Javascript | Typescript | Docker
-  <br>
+<br>
 
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
@@ -158,16 +158,18 @@ void  greet_visitor()
 ## Git Stadistics 📊
 
 <a href="https://github.com/brayans22">
-    <img align ="center" src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/brayans22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
 </a>
 
-<a href="https://github.com/brayans22">
-    <img align="center" src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
-</a>
+<div align = "center">
+    <a href="https://github.com/brayans22">
+      <img src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
+    </a>
+</div>
 
 ## My notes 📚
 > In this section, you will discover a comprehensive collection of notes encompassing various facets of the programming realm.
@@ -304,4 +306,4 @@ void  greet_visitor()
 ## Contact 📞
 
 - Personal Mail: <brayansaiago@gmail.com>
-- 42 Barcelona Mail: <bsaiago-@4campusbarcelona.com>
+- 42 Barcelona Mail: <bsaiago-@student.42barcelona.com>
