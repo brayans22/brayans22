@@ -95,22 +95,23 @@ void  greet_visitor()
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
 <details>
+  
   <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
   
   <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Cursus">
+       <a href="https://github.com/brayans22/42-Barcelona-Cursus">
                Cursus 🚧  
        </a>
   </h3>
 
   <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/C%20Piscine%20Reloaded">
+       <a href="https://github.com/brayans22/42-Barcelona-C-Reloaded">
               C Reloaded 🔃
        </a>
   </h3>
   
   <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Campus-Barcelona/tree/main/Piscine">
+       <a href="https://github.com/brayans22/42-Barcelona---Piscine">
               Piscine 🏊‍♂️
        </a>
   </h3>
@@ -125,28 +126,48 @@ void  greet_visitor()
               Osos contra el reloj 🐻‍❄️ 🐻 🕒
        </a>
   </h3>
+
+  <h3>
+       📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/brayans22/TP_2-Juarez">
+              Edificios 🏬 
+       </a>
+  </h3>
+
+  <h3>
+       📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/kikiymini/algo3_tp2">
+              GPS Challenge 🏎️ 🧭 
+       </a>
+  </h3>
+  
+</details>
+
+<details>
+  
+  <summary> <h3> Web 🌐 </h3> </summary>
+  <h3>
+       📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="https://github.com/brayans22/Tp-TDL-Chango---Coders">
+              Control Clients 📇 👤
+       </a>
+  </h3>
+  
 </details>
 
 ## Git Stadistics 📊
 
-<p align="center">
-       <a href="https://github.com/brayans22">
-              <img src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
-       </a>
-</p>
+<a href="https://github.com/brayans22">
+    <img align ="center" src="https://github-readme-stats.vercel.app/api?username=brayans22&show_icons=true&hide_border=true" />
+</a>
 
-<p align="center">
-       <a href="https://github.com/brayans22">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
-       </a>
-</p>
+<a href="https://github.com/brayans22">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayans22&layout=compact" />
+</a>
 
-<p align="center">
-       <a href="https://github.com/brayans22">
-              <img align="center"src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
-       </a>
-</p>
-
+<a href="https://github.com/brayans22">
+    <img align="center" src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square" />
+</a>
 
 ## My notes 📚
 > In this section, you will discover a comprehensive collection of notes encompassing various facets of the programming realm.
@@ -283,4 +304,4 @@ void  greet_visitor()
 ## Contact 📞
 
 - Personal Mail: <brayansaiago@gmail.com>
-- 42 Barcelona Mail: <bsaiago-@42barcelona.com>
+- 42 Barcelona Mail: <bsaiago-@4campusbarcelona.com>
