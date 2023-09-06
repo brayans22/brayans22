@@ -44,9 +44,9 @@ void  greet_visitor()
 ### Tools 🛠️
 
   [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![GitHub Icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  [![GitHub icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   [![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
-  [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+  [![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
   [![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
   [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   
@@ -82,10 +82,10 @@ void  greet_visitor()
   <br>
 
 ## Currently Learning ✍🏻 📔 
-[![Javascript](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![Typescript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Angular](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Javascript icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Typescript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Angular icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 <br>
   
