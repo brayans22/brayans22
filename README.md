@@ -24,6 +24,13 @@ void  greet_visitor()
 > A steadfast advocate of collaborative efforts, I exemplify commitment by investing 
 > an unwavering 110% to overcome every challenge I undertake."
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/brayansaiago/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 
 ## Current Skills 👨‍💻
 
@@ -317,13 +324,9 @@ void  greet_visitor()
 </details>
 
 <footer>
+  
 ## Contact 📞
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/brayansaiago/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
-- Personal Mail: <brayansaiago@gmail.com>
+- : <brayansaiago@gmail.com>
   
 </footer>
