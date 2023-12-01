@@ -27,6 +27,8 @@ void  greet_visitor()
 
 ## Current Skills 👨‍💻
 
+
+
 ### Programming Languages ⌨️ 🌐
   
   [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
@@ -314,7 +316,14 @@ void  greet_visitor()
   </h3>
 </details>
 
+<footer>
 ## Contact 📞
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/brayansaiago/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 - Personal Mail: <brayansaiago@gmail.com>
-- 42 Barcelona Mail: <bsaiago-@student.42barcelona.com>
+  
+</footer>
