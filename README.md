@@ -32,17 +32,17 @@ void  greet_visitor()
   [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
   [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
   [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  [![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![Css icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   
   <br>
   
-  > Languages:&nbsp;&nbsp;C | C++ | Java | HTML | CSS | Python | Smalltalk
+  > Languages:&nbsp;&nbsp;C | C++ | Java | Python | Smalltalk
   <br>
 
 ### Tools 🛠️
 
+  [![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![Css icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
   [![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
   [![GitHub icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
   [![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
@@ -52,6 +52,7 @@ void  greet_visitor()
   
 
 <br>
+> Web 📄:&nbsp;&nbsp;HTML| CSS 
 
 > Version Control System 💻:&nbsp;&nbsp;Git | Github | Gitlab
 
