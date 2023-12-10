@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe" 
-    alt = "gif hack the planet" width="1000px" height="450px">
+    alt = "gif hack the planet" width="300px" height="300px">
 </p>
 
 ```c
@@ -30,11 +30,7 @@ void  greet_visitor()
   </a>
 </div>
 
-
-
 ## Current Skills 👨‍💻
-
-
 
 ### Programming Languages ⌨️ 🌐
   
@@ -43,11 +39,6 @@ void  greet_visitor()
   [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   
-  <br>
-  
-  > Languages:&nbsp;&nbsp;C | C++ | Java | Python | Smalltalk
-  <br>
-
 ### Tools 🛠️
 
   [![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -60,25 +51,6 @@ void  greet_visitor()
   [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
   
 
-<br>
-
-> Web 📄:&nbsp;&nbsp;HTML| CSS 
-
-> Version Control System 💻:&nbsp;&nbsp;Git | Github | Gitlab
-
-> Others 🔢: &nbsp;&nbsp;Bash | Markdown | Stack overflow
-
-> Debugging 🐛:&nbsp;&nbsp;Gdb
-
-> Detect Memory Leaks 🧠:&nbsp;&nbsp;Valgrind
-
-> Team Tools 🗣️:&nbsp;&nbsp;Notion | Slack
-
-> Design 👨‍🎨 🖌️:&nbsp;&nbsp;Canvas | Capcut | Picsart | Inshot
-
-> Digital Suites 📦:&nbsp;&nbsp;Microsoft Office | Microsoft Word | Google Drive
-<br>
-
 ### IDEs ⚛️
   
   [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
@@ -86,22 +58,12 @@ void  greet_visitor()
   [![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
   [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
   [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
- 
-  <br>
-  
-  > IDEs ⚛:&nbsp;&nbsp;Vim | Visual Studio Code | Visual Studio | IntelliJ | Atom | Clion | Geany
-  <br>
 
 ## Currently Learning ✍🏻 📔 
 [![Javascript icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![Typescript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![Angular icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
-<br>
-  
-  > Learning 🌱:&nbsp;&nbsp; Angular | Javascript | Typescript | Docker
-<br>
 
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
@@ -322,11 +284,3 @@ void  greet_visitor()
        </a>
   </h3>
 </details>
-
-<footer>
-  
-## Contact 📞
-
-- : <brayansaiago@gmail.com>
-  
-</footer>
