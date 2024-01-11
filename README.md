@@ -60,10 +60,10 @@ void  greet_visitor()
   [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 
 ## Currently Learning ✍🏻 📔 
-[![Javascript icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![Typescript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Angular icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+  [![Javascript icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+  [![Typescript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+  [![Angular icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+  [![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
