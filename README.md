@@ -72,8 +72,11 @@ void  greet_visitor()
   <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
   
   <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://github.com/brayans22/42-Barcelona-Cursus">
-               Cursus 🚧  
+      <a href="https://github.com/brayans22/Libft">
+               Libft 📚  
+       </a>
+       <a href="https://github.com/brayans22/CPP-Modules">
+               CPP 🚧  
        </a>
   </h3>
 
