@@ -68,17 +68,51 @@ void  greet_visitor()
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
 <details>
-  
   <summary><h3>42 Barcelona Projects 🖥 </h3></summary>
   
-  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      <a href="https://github.com/brayans22/Libft">
-               Libft 📚  
-       </a>
-       <a href="https://github.com/brayans22/CPP-Modules">
-               CPP 🚧  
-       </a>
-  </h3>
+  <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp 42 Cursus
+          <br>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/Libft">
+                   Libft 📚  
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/ft_printf">
+                   Printf 🖨️
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/get_next_line">
+                   GetNextLine 📄
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/ExamRank02">
+                   ExamRank02 🖊️
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/So-long">
+                   So Long 📄
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/Minitalk">
+                   Minitalk 👨‍💼 ✉️ -> 🖥️ 
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/Push-Swap">
+                   Push Swap 🔢
+              </a>
+          </h4>
+          <h4> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ➡️ &nbsp; &nbsp; &nbsp; &nbsp;
+              <a href="https://github.com/brayans22/CPP-Modules">
+                   CPP 🚧   
+              </a>
+          </h4>
+      </h3>
 
   <h3> 📂 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        <a href="https://github.com/brayans22/42-Barcelona-C-Reloaded">
