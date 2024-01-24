@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src = "https://github.com/brayans22/brayans22/assets/90729742/eef81ccf-feec-487f-a093-61d6099544fe" 
-    alt = "gif hack the planet" width="1000px" height="290px">
+    alt = "gif hack the planet" width="290px" height="150px">
 </p>
 
 ```c
