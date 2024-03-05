@@ -192,7 +192,7 @@ void  greet_visitor()
 ## My notes 📚
 > In this section, you will discover a comprehensive collection of notes encompassing various facets of the programming realm.
 <h3> 📖 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       <a href="https://brayan-saiago.notion.site/C-c6f8597f6dd84ae092335ef640020626?pvs=4">
+       <a href="https://brayan-saiago.notion.site/MY-NOTES-0cd4238e7d0b4781b96c84b9f8db2b11">
                Notes
        </a>
 </h3>
