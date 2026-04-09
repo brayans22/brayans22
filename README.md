@@ -95,14 +95,6 @@ void  greet_visitor()
 ![netskope icon](./assets/icons/netskope.png)
 ![jira icon](./assets/icons/jira.png)
 
-<p>
-  <img src="./assets/icons/fortinet.png" width="48"/>
-  <img src="./assets/icons/glpi.png" width="48"/>
-  <img src="./assets/icons/prtg.png" width="48"/>
-  <img src="./assets/icons/manageengine.png" width="48"/>
-  <img src="./assets/icons/netskope.png" width="48"/>
-</p>
-
 **Key areas:**
 - 🛡️ Network Security — Fortinet (FortiGate & FortiSwitch): firewall access, VLAN configuration, AP management via FortiAP, connected device visibility per AP, switch monitoring and network topology oversight
 - 📡 Server Monitoring — PRTG Network Monitor: real-time infrastructure health, sensor configuration, alerts and dashboards
