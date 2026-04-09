@@ -58,20 +58,11 @@ void  greet_visitor()
 [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 
-### ☁️ Microsoft Ecosystem & Cloud Administration
+### ☁️ Microsoft 365 Ecosystem & Cloud Administration
 
 > Experienced in administering and configuring the full Microsoft 365 suite and Azure cloud services.
 
-<p>
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="Azure" title="Microsoft Azure"/>
-  <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="48" height="48" alt="Microsoft 365" title="Microsoft 365"/>
-  <img src="https://cdn.simpleicons.org/microsoftsharepoint/0078D4" width="48" height="48" alt="SharePoint" title="SharePoint Online"/>
-  <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" width="48" height="48" alt="Teams" title="Microsoft Teams"/>
-  <img src="https://cdn.simpleicons.org/microsoftonedrive/0078D4" width="48" height="48" alt="OneDrive" title="OneDrive"/>
-  <img src="https://cdn.simpleicons.org/microsoftexchange/0078D4" width="48" height="48" alt="Exchange" title="Exchange Online"/>
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" height="48" alt="PowerShell" title="PowerShell"/>
-  <img src="https://cdn.simpleicons.org/windows/0078D4" width="48" height="48" alt="Active Directory" title="Active Directory / Entra ID"/>
-</p>
+<p> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsharepoint.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftteams.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftonedrive.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexchange.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" width="48"/> </p>
 
 **Key areas:**
 - 🔐 Identity & Access Management — Microsoft Entra ID (Azure AD), Conditional Access, MFA, RBAC
@@ -86,14 +77,7 @@ void  greet_visitor()
 
 > Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
 
-<p>
-  <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="48" height="48" alt="Fortinet" title="Fortinet"/>
-  <img src="https://cdn.simpleicons.org/glpi/009FDB" width="48" height="48" alt="GLPI" title="GLPI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Paessler_PRTG_logo.svg/512px-Paessler_PRTG_logo.svg.png" width="48" height="48" alt="PRTG" title="PRTG Network Monitor"/>
-  <img src="https://www.manageengine.com/images/me-logo.svg" width="48" height="48" alt="ManageEngine" title="ManageEngine"/>
-  <img src="https://avatars.githubusercontent.com/u/54492211?s=200&v=4" width="48" height="48" alt="NinjaOne" title="NinjaOne RMM"/>
-  <img src="https://cdn.simpleicons.org/netskope/004B87" width="48" height="48" alt="Netskope" title="Netskope"/>
-</p>
+<p> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortinet.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/glpi.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paessler.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/manageengine.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netskope.svg" width="48"/> </p>
 
 **Key areas:**
 - 🛡️ Network Security — Fortinet (FortiGate & FortiSwitch): firewall access, VLAN configuration, AP management via FortiAP, connected device visibility per AP, switch monitoring and network topology oversight
