@@ -92,7 +92,7 @@ void  greet_visitor()
 ![glpi icon](./assets/icons/glpi.png)
 ![prtg icon](./assets/icons/prtg.png)
 ![ninjaone icon](./assets/icons/ninjaone.png)
-![manageengine icon](./assets/icons/manage.png)
+![manageengine icon](./assets/icons/manageengine.png)
 ![netskope icon](./assets/icons/netskope.png)
 ![jira icon](./assets/icons/jira.png)
 
