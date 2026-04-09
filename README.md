@@ -58,35 +58,42 @@ void  greet_visitor()
 [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 
-### ☁️ Microsoft 365 Ecosystem & Cloud Administration
+### Microsoft 365 Admin & Cloud Administration ☁️
 
-> Experienced in administering and configuring the full Microsoft 365 suite and Azure cloud services.
-
-<p>
-  <img src="./assets/icons/copilot.png" width="48"/>
-  <img src="./assets/icons/ActiveDirectory.png" width="48"/>
-  <img src="./assets/icons/azure.jpg" width="48"/>
-  <img src="./assets/icons/microsoft365.png" width="48"/>
-  <img src="./assets/icons/sharepoint.png" width="48"/>
-  <img src="./assets/icons/teams.png" width="48"/>
-  <img src="./assets/icons/onedrive.png" width="48"/>
-  <img src="./assets/icons/exchange.png" width="48"/>
-  <img src="./assets/icons/powershell.png" width="48"/>
-  <img src="./assets/icons/windows.png" width="48"/>
-</p>
+[![azure icon](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![windows icon](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![powershell icon](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+![outlook icon](./assets/icons/outlook.png)
+![sharepoint icon](./assets/icons/sharepoint.png)
+![onedrive icon](./assets/icons/onedrive.png)
+![teams icon](./assets/icons/teams.png)
+![exchange icon](./assets/icons/exchange.png)
+![entra microsoft icon](./assets/icons/entra.png)
+![word icon](./assets/icons/word.png)
+![excel icon](./assets/icons/excel.png)
+![powerpoint icon](./assets/icons/powerpoint.png)
+![one note icon](./assets/icons/onenote.png)
 
 **Key areas:**
-- 🔐 Identity & Access Management — Microsoft Entra ID (Azure AD), Conditional Access, MFA, RBAC
-- 👤 User Administration — User provisioning in Active Directory, GPO creation and management, OU structure, group policies for software deployment, security and desktop configuration
-- 📧 Mail Administration — Exchange Online, mail flow rules, shared mailboxes, distribution groups
-- 🗂️ Collaboration — SharePoint Online sites, permissions, Teams administration, OneDrive governance
-- 💻 Device Management — Microsoft Intune, MDM/MAM policies, Autopilot
-- ⚙️ Automation — PowerShell scripting for M365 & Azure administration
-- 🛡️ Security & Compliance — Defender for M365, DLP policies, audit logs
+- Identity & Access Management — Microsoft Entra ID (Azure AD), Conditional Access, MFA, RBAC 🔐
+- User Administration — User provisioning in Active Directory, GPO creation and management, OU structure, group policies for software deployment, security and desktop configuration 👤
+- Mail Administration — Exchange Online, mail flow rules, shared mailboxes, distribution groups 📧
+- Collaboration — SharePoint Online sites, permissions, Teams administration, OneDrive governance 🗂️
+- Device Management — Microsoft Intune, MDM/MAM policies, Autopilot 💻
+- Automation — PowerShell scripting for M365 & Azure administration ⚙️
+- Security & Compliance — Defender for M365, DLP policies, audit logs 🛡️
 
-### 🖥️ IT Infrastructure, Monitoring & Network Security
+### 🖥️ IT Infrastructure, Ticketing, Monitoring & Network Security
 
 > Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
+
+![fortinet icon](./assets/icons/fortinet.png)
+![glpi icon](./assets/icons/glpi.png)
+![prtg icon](./assets/icons/prtg.png)
+![ninjaone icon](./assets/icons/ninjaone.png)
+![manageengine icon](./assets/icons/manage.png)
+![netskope icon](./assets/icons/netskope.png)
+![jira icon](./assets/icons/jira.png)
 
 <p>
   <img src="./assets/icons/fortinet.png" width="48"/>
