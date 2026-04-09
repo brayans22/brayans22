@@ -30,17 +30,15 @@ void  greet_visitor()
   </a>
 </div>
 
----
-
 ## Current Skills 👨‍💻
 
 ### Programming Languages ⌨️ 🌐
-  
+
 [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-  
+
 ### Tools 🛠️
 
 [![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -53,7 +51,7 @@ void  greet_visitor()
 [![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
 ### IDEs ⚛️
-  
+
 [![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
 [![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
@@ -64,38 +62,52 @@ void  greet_visitor()
 
 > Experienced in administering and configuring the full Microsoft 365 suite and Azure cloud services.
 
-[![Azure icon](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-[![PowerShell icon](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-
-<br>
-
-![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&logoWidth=20)
-![Entra ID](https://img.shields.io/badge/-Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active_Directory-003087?style=for-the-badge&logo=windows&logoColor=white)
-![Exchange](https://img.shields.io/badge/-Exchange_Online-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)
-![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Intune](https://img.shields.io/badge/-Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="Azure" title="Microsoft Azure"/>
+  <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="48" height="48" alt="Microsoft 365" title="Microsoft 365"/>
+  <img src="https://cdn.simpleicons.org/microsoftsharepoint/0078D4" width="48" height="48" alt="SharePoint" title="SharePoint Online"/>
+  <img src="https://cdn.simpleicons.org/microsoftteams/6264A7" width="48" height="48" alt="Teams" title="Microsoft Teams"/>
+  <img src="https://cdn.simpleicons.org/microsoftonedrive/0078D4" width="48" height="48" alt="OneDrive" title="OneDrive"/>
+  <img src="https://cdn.simpleicons.org/microsoftexchange/0078D4" width="48" height="48" alt="Exchange" title="Exchange Online"/>
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" height="48" alt="PowerShell" title="PowerShell"/>
+  <img src="https://cdn.simpleicons.org/windows/0078D4" width="48" height="48" alt="Active Directory" title="Active Directory / Entra ID"/>
+</p>
 
 **Key areas:**
 - 🔐 Identity & Access Management — Microsoft Entra ID (Azure AD), Conditional Access, MFA, RBAC
+- 👤 User Administration — User provisioning in Active Directory, GPO creation and management, OU structure, group policies for software deployment, security and desktop configuration
 - 📧 Mail Administration — Exchange Online, mail flow rules, shared mailboxes, distribution groups
 - 🗂️ Collaboration — SharePoint Online sites, permissions, Teams administration, OneDrive governance
 - 💻 Device Management — Microsoft Intune, MDM/MAM policies, Autopilot
 - ⚙️ Automation — PowerShell scripting for M365 & Azure administration
 - 🛡️ Security & Compliance — Defender for M365, DLP policies, audit logs
 
----
+### 🖥️ IT Infrastructure, Monitoring & Network Security
 
-## Currently Learning ✍🏻 📔 
+> Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
+
+<p>
+  <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="48" height="48" alt="Fortinet" title="Fortinet"/>
+  <img src="https://cdn.simpleicons.org/glpi/009FDB" width="48" height="48" alt="GLPI" title="GLPI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Paessler_PRTG_logo.svg/512px-Paessler_PRTG_logo.svg.png" width="48" height="48" alt="PRTG" title="PRTG Network Monitor"/>
+  <img src="https://www.manageengine.com/images/me-logo.svg" width="48" height="48" alt="ManageEngine" title="ManageEngine"/>
+  <img src="https://avatars.githubusercontent.com/u/54492211?s=200&v=4" width="48" height="48" alt="NinjaOne" title="NinjaOne RMM"/>
+  <img src="https://cdn.simpleicons.org/netskope/004B87" width="48" height="48" alt="Netskope" title="Netskope"/>
+</p>
+
+**Key areas:**
+- 🛡️ Network Security — Fortinet (FortiGate & FortiSwitch): firewall access, VLAN configuration, AP management via FortiAP, connected device visibility per AP, switch monitoring and network topology oversight
+- 📡 Server Monitoring — PRTG Network Monitor: real-time infrastructure health, sensor configuration, alerts and dashboards
+- 🗃️ IT Inventory Management — GLPI: asset tracking, helpdesk ticketing and CMDB management
+- 🖥️ Endpoint Monitoring — ManageEngine and NinjaOne RMM: remote monitoring, patch management and device management
+- 🔒 Cloud Proxy & Security — Netskope SASE/SSE: web filtering, DLP and secure internet access
+
+## Currently Learning ✍🏻 📔
 
 [![Angular icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
 [![JavaScript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
----
 
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
@@ -135,8 +147,6 @@ void  greet_visitor()
   
 </details>
 
----
-
 ## Git Statistics 📊
 
 <div align="center">
@@ -160,8 +170,6 @@ void  greet_visitor()
         <img src="https://komarev.com/ghpvc/?username=brayans22&style=flat-square"/>
     </a>
 </div>
-
----
 
 ## My Notes 📚
 > In this section, you will discover a comprehensive collection of notes encompassing various facets of the programming realm.
