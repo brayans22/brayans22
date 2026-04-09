@@ -63,6 +63,7 @@ void  greet_visitor()
 [![azure icon](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 [![windows icon](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 [![powershell icon](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+![powerautomate icon](./assets/icons/automate.png)
 ![outlook icon](./assets/icons/outlook.png)
 ![sharepoint icon](./assets/icons/sharepoint.png)
 ![onedrive icon](./assets/icons/onedrive.png)
@@ -87,7 +88,7 @@ void  greet_visitor()
 
 > Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
 
-![fortinet icon](./assets/icons/fortinet.png)
+![fortinet icon](./assets/icons/forti.png)
 ![glpi icon](./assets/icons/glpi.png)
 ![prtg icon](./assets/icons/prtg.png)
 ![ninjaone icon](./assets/icons/ninjaone.png)
