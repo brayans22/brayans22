@@ -62,7 +62,16 @@ void  greet_visitor()
 
 > Experienced in administering and configuring the full Microsoft 365 suite and Azure cloud services.
 
-<p> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftazure.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftsharepoint.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftteams.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftonedrive.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexchange.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" width="48"/> </p>
+<p>
+  <img src="./assets/icons/azure.png" width="48"/>
+  <img src="./assets/icons/microsoft365.png" width="48"/>
+  <img src="./assets/icons/sharepoint.png" width="48"/>
+  <img src="./assets/icons/teams.png" width="48"/>
+  <img src="./assets/icons/onedrive.png" width="48"/>
+  <img src="./assets/icons/exchange.png" width="48"/>
+  <img src="./assets/icons/powershell.png" width="48"/>
+  <img src="./assets/icons/windows.png" width="48"/>
+</p>
 
 **Key areas:**
 - 🔐 Identity & Access Management — Microsoft Entra ID (Azure AD), Conditional Access, MFA, RBAC
@@ -77,7 +86,13 @@ void  greet_visitor()
 
 > Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
 
-<p> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortinet.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/glpi.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paessler.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/manageengine.svg" width="48"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netskope.svg" width="48"/> </p>
+<p>
+  <img src="./assets/icons/fortinet.png" width="48"/>
+  <img src="./assets/icons/glpi.png" width="48"/>
+  <img src="./assets/icons/prtg.png" width="48"/>
+  <img src="./assets/icons/manageengine.png" width="48"/>
+  <img src="./assets/icons/netskope.png" width="48"/>
+</p>
 
 **Key areas:**
 - 🛡️ Network Security — Fortinet (FortiGate & FortiSwitch): firewall access, VLAN configuration, AP management via FortiAP, connected device visibility per AP, switch monitoring and network topology oversight
