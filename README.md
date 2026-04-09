@@ -64,20 +64,19 @@ void  greet_visitor()
 
 > Experienced in administering and configuring the full Microsoft 365 suite and Azure cloud services.
 
-<div align="left">
+[![Azure icon](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![PowerShell icon](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003087?style=for-the-badge&logo=windows&logoColor=white)
-![Exchange](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
-![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
+<br>
 
-</div>
+![Microsoft 365](https://img.shields.io/badge/-Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&logoWidth=20)
+![Entra ID](https://img.shields.io/badge/-Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active_Directory-003087?style=for-the-badge&logo=windows&logoColor=white)
+![Exchange](https://img.shields.io/badge/-Exchange_Online-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Teams](https://img.shields.io/badge/-Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Intune](https://img.shields.io/badge/-Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OneDrive](https://img.shields.io/badge/-OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 
 **Key areas:**
 - 🔐 Identity & Access Management — Microsoft Entra ID (Azure AD), Conditional Access, MFA, RBAC
