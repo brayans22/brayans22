@@ -63,7 +63,9 @@ void  greet_visitor()
 > Experienced in administering and configuring the full Microsoft 365 suite and Azure cloud services.
 
 <p>
-  <img src="./assets/icons/azure.png" width="48"/>
+  <img src="./assets/icons/copilot.png" width="48"/>
+  <img src="./assets/icons/ActiveDirectory.png" width="48"/>
+  <img src="./assets/icons/azure.jpg" width="48"/>
   <img src="./assets/icons/microsoft365.png" width="48"/>
   <img src="./assets/icons/sharepoint.png" width="48"/>
   <img src="./assets/icons/teams.png" width="48"/>
