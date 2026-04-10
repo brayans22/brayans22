@@ -15,13 +15,21 @@ void  greet_visitor()
 ```
 
 ## About me 🕵️‍♂️
-> I am a Portuguese student enrolled in the 42 Barcelona Cursus. Concurrently, 
-> I am undergoing the transfer procedures to continue my previous studies in 
-> Computer Science from the University of Buenos Aires (UBA) at the U. My academic journey reflects a pronounced acumen for critical 
-> analysis, comprehensive reading, articulate writing, and accelerated learning.
-
-> A steadfast advocate of collaborative efforts, I exemplify commitment by investing 
-> an unwavering 110% to overcome every challenge I undertake.
+> I am a Portuguese student enrolled in the 42 Barcelona Cursus. I previously studied Computer Science at the University of Buenos Aires (UBA)
+> and I am currently in the process of continuing my studies at the Universitat Oberta de Catalunya (UOC). My academic journey reflects a
+> pronounced acumen for critical analysis, comprehensive reading, articulate writing, and accelerated learning.
+>
+> Currently, I work as a Systems Administrator at Eurofragance S.L., where I manage IT services, support users, and maintain systems and infrastructure.
+> My responsibilities include onboarding and offboarding processes, Microsoft 365 administration (licenses, access, and security), and identity
+> governance through Microsoft Entra ID with MFA enforcement. I work with ITIL practices using Jira to track incidents and improve internal
+> processes, and I also manage IT assets and equipment lifecycle.
+>
+> In addition, I have hands-on experience with tools and technologies such as Fortinet (FortiGate & FortiSwitch) for network security, GLPI for asset and
+> ticket management, PRTG and NinjaOne for monitoring servers and devices, and cloud security platforms like Netskope. My technical skill set also includes
+> PowerShell automation, Active Directory, and general IT infrastructure and cloud administration. I am also proficient in programming languages such as C,
+> C++, Java, and Python.
+>
+> A steadfast advocate of collaborative efforts, I exemplify commitment by investing an unwavering 110% to overcome every challenge I undertake.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brayansaiago/">
