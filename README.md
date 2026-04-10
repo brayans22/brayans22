@@ -17,8 +17,7 @@ void  greet_visitor()
 ## About me 🕵️‍♂️
 > I am a Portuguese student enrolled in the 42 Barcelona Cursus. Concurrently, 
 > I am undergoing the transfer procedures to continue my previous studies in 
-> Computer Science from the University of Buenos Aires (UBA) at the University 
-> of Barcelona (UB). My academic journey reflects a pronounced acumen for critical 
+> Computer Science from the University of Buenos Aires (UBA) at the U. My academic journey reflects a pronounced acumen for critical 
 > analysis, comprehensive reading, articulate writing, and accelerated learning.
 
 > A steadfast advocate of collaborative efforts, I exemplify commitment by investing 
@@ -31,6 +30,7 @@ void  greet_visitor()
 </div>
 
 ## Current Skills 👨‍💻
+> In this section, you will find an overview of my technical skills, tools, and areas of expertise, including cloud administration, IT infrastructure, programming languages, and development environments, along with my GitHub activity.
 
 ### Microsoft 365 Admin & Cloud Administration ☁️
 
@@ -75,13 +75,6 @@ void  greet_visitor()
 - 🖥️ Endpoint Monitoring — ManageEngine and NinjaOne RMM: remote monitoring, patch management and device management
 - 🔒 Cloud Proxy & Security — Netskope SASE/SSE: web filtering, DLP and secure internet access
 
-## Currently Learning ✍🏻 📔
-
-[![Angular icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
-[![JavaScript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TypeScript icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
 ### Programming Languages ⌨️ 🌐
 
 [![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
@@ -107,6 +100,13 @@ void  greet_visitor()
 [![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 [![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
+
+## Currently Learning ✍🏻 📔
+
+[![Angular icon](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![JavaScript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
@@ -147,6 +147,7 @@ void  greet_visitor()
 </details>
 
 ## Git Statistics 📊
+> In this section, you will discover my Github statistics.
 
 <div align="center">
     <a href="https://github.com/brayans22">
