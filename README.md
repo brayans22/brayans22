@@ -88,7 +88,7 @@ void  greet_visitor()
 
 > Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
 
-![fortinet icon](./assets/icons/forti.png)
+![fortinet icon](./assets/icons/fortinet.png)
 ![glpi icon](./assets/icons/glpi.png)
 ![prtg icon](./assets/icons/prtg.png)
 ![ninjaone icon](./assets/icons/ninjaone.png)
