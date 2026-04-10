@@ -77,11 +77,11 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
 ![jira icon](./assets/icons/jira.png)
 
 **Key areas:**
-- 🛡️ Network Security — Fortinet (FortiGate & FortiSwitch): firewall access, VLAN configuration, AP management via FortiAP, connected device visibility per AP, switch monitoring and network topology oversight
-- 📡 Server Monitoring — PRTG Network Monitor: real-time infrastructure health, sensor configuration, alerts and dashboards
-- 🗃️ IT Inventory Management — GLPI: asset tracking, helpdesk ticketing and CMDB management
-- 🖥️ Endpoint Monitoring — ManageEngine and NinjaOne RMM: remote monitoring, patch management and device management
-- 🔒 Cloud Proxy & Security — Netskope SASE/SSE: web filtering, DLP and secure internet access
+- Network Security — Fortinet (FortiGate & FortiSwitch): firewall access, VLAN configuration, AP management via FortiAP, connected device visibility per AP, switch monitoring and network topology oversight 🛡️
+- Server Monitoring — PRTG Network Monitor: real-time infrastructure health, sensor configuration, alerts and dashboards 📡
+- IT Inventory Management — GLPI: asset tracking, helpdesk ticketing and CMDB management 🗃️ 
+- Endpoint Monitoring — ManageEngine and NinjaOne RMM: remote monitoring, patch management and device management 🖥️
+- Cloud Proxy & Security — Netskope SASE/SSE: web filtering, DLP and secure internet access 🔒
 
 ### Programming Languages ⌨️ 🌐
 
