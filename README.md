@@ -86,8 +86,6 @@ void  greet_visitor()
 
 ### 🖥️ IT Infrastructure, Ticketing, Monitoring & Network Security
 
-> Hands-on experience with enterprise IT tools for monitoring, inventory, endpoint management and network security.
-
 ![fortinet icon](./assets/icons/fortinet.png)
 ![glpi icon](./assets/icons/glpi.png)
 ![prtg icon](./assets/icons/prtg.png)
