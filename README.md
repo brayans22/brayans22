@@ -32,32 +32,6 @@ void  greet_visitor()
 
 ## Current Skills 👨‍💻
 
-### Programming Languages ⌨️ 🌐
-
-[![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-### Tools 🛠️
-
-[![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![Css icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
-[![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
-[![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
-[![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
-
-### IDEs ⚛️
-
-[![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
-[![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
-[![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
-[![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
-
 ### Microsoft 365 Admin & Cloud Administration ☁️
 
 [![azure icon](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
@@ -84,7 +58,7 @@ void  greet_visitor()
 - Automation — PowerShell scripting for M365 & Azure administration ⚙️
 - Security & Compliance — Defender for M365, DLP policies, audit logs 🛡️
 
-### 🖥️ IT Infrastructure, Ticketing, Monitoring & Network Security
+### IT Infrastructure, Ticketing, Monitoring & Inventory Management 🖥️
 
 ![fortinet icon](./assets/icons/fortinet.png)
 ![glpi icon](./assets/icons/glpi.png)
@@ -107,6 +81,32 @@ void  greet_visitor()
 [![JavaScript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![TypeScript icon](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![Docker icon](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+### Programming Languages ⌨️ 🌐
+
+[![C icon](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++ icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+### Tools 🛠️
+
+[![Html icon](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![Css icon](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Git icon](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub icon](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Gitlab icon](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+[![Bash icon](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![Markdown icon](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+[![Stack overflow icon](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
+
+### IDEs ⚛️
+
+[![Vim icon](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
+[![Vscode icon](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Visual studio icon](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+[![IntelliJ icon](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![Atom icon](https://skillicons.dev/icons?i=atom)](https://skillicons.dev)
 
 ## Projects 🗄️
 > In this section, you will find all the Git projects I have collaborated on.
