@@ -120,6 +120,16 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
 > In this section, you will find all the Git projects I have collaborated on.
 
 <details>
+  <summary><h3>Web 🌐</h3></summary>
+
+  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/brayans22/BrayanJSR-Web">
+    BrayanJSR 🎧 - Official Website | Music Producer & Artist
+  </a>
+</h3>
+</details>
+
+<details>
   <summary><h3>42 Barcelona Projects 🖥</h3></summary>
   
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42 Cursus</h3>
@@ -145,16 +155,6 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/TP_2-Juarez">Edificios 🏬</a></h3>
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/kikiymini/algo3_tp2">GPS Challenge 🏎️ 🧭</a></h3>
   
-</details>
-
-<details>
-  <summary><h3>Web 🌐</h3></summary>
-
-  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/brayans22/BrayanJSR-Web">
-    BrayanJSR 🎧 - Official Website | Music Producer & Artist
-  </a>
-</h3>
 </details>
 
 ## Git Statistics 📊
