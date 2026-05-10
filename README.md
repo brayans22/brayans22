@@ -130,6 +130,15 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
 </details>
 
 <details>
+  <summary><h3>Games 🎮</h3></summary>
+
+  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/Osos-contra-el-reloj">Osos contra el reloj 🐻‍❄️ 🐻 🕒</a></h3>
+  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/TP_2-Juarez">Edificios 🏬</a></h3>
+  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/kikiymini/algo3_tp2">GPS Challenge 🏎️ 🧭</a></h3>
+  
+</details>
+
+<details>
   <summary><h3>42 Barcelona Projects 🖥</h3></summary>
   
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 42 Cursus</h3>
@@ -145,15 +154,6 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
 
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/42-Barcelona-C-Reloaded">C Reloaded 🔃</a></h3>
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/42-Barcelona---Piscine">Piscine 🏊‍♂️</a></h3>
-  
-</details>
-
-<details>
-  <summary><h3>Games 🎮</h3></summary>
-
-  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/Osos-contra-el-reloj">Osos contra el reloj 🐻‍❄️ 🐻 🕒</a></h3>
-  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/TP_2-Juarez">Edificios 🏬</a></h3>
-  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/kikiymini/algo3_tp2">GPS Challenge 🏎️ 🧭</a></h3>
   
 </details>
 
