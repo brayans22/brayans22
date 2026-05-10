@@ -150,8 +150,11 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
 <details>
   <summary><h3>Web 🌐</h3></summary>
 
-  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/brayans22/Tp-TDL-Chango---Coders">Control Clients 📇 👤</a></h3>
-  
+  <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/brayans22/BrayanJSR-Web">
+    BrayanJSR 🎧 - Official Website | Music Producer & Artist
+  </a>
+</h3>
 </details>
 
 ## Git Statistics 📊
