@@ -124,7 +124,7 @@ A steadfast advocate of collaborative efforts, I exemplify commitment by investi
 
   <h3>📂 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/brayans22/BrayanJSR-Web">
-    BrayanJSR 🎧 - Official Website | Music Producer & Artist
+    BrayanJSR - Official Website | Music Producer & Artist 🎧
   </a>
 </h3>
 </details>
